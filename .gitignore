@@ -6,10 +6,7 @@ tests/
 
 # production
 /build
-public/bundle.js
-public/bundle.js.msp
-public/styles.css
-public/styles.css.map
+public/dist/
 
 # misc
 .DS_Store
