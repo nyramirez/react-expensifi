@@ -14,4 +14,11 @@ const altFilters = {
     endDate: moment(0).add(3, 'days')
 };
 
-export {filters , altFilters};
+const altFiltersTwo = {
+    text: 'Rent',
+    sortBy: 'date',
+    startDate: undefined,
+    endDate: undefined
+};
+
+export {filters , altFilters, altFiltersTwo};
